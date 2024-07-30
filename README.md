@@ -21,5 +21,30 @@
 
 ## bot Previews
 <div style="display: flex; overflow-x: auto;">
-  <img src="./src/main-page.png" alt="Slide 1" width="200" height="auto">
+  <img src="./src/main-page.jpg" alt="Slide 1" width="200" height="auto">
 </div>
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP, mySQL
+
+## Pricing
+
+This script is available for purchase at **$500** With Full Customization !<br>
+📛 Pay First 📛<br>
+📛 Scammers Not Come !!! 📛
+
+## Buying
+
+Contact Me In Telegram : <a href="https://t.me/LampStack">@LampStack</a><br>
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+<a href="https://t.me/LampStack">Telegram</a><br>
+<a href="mailto:xialop@outlook.com">Email</a>
