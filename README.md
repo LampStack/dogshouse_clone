@@ -21,7 +21,7 @@
 
 ## bot Previews
 <div style="display: flex; overflow-x: auto;">
-  <img src="./src/main-page.jpg" alt="Slide 1" width="200" height="auto">
+  <img src="./home.jpg" alt="Slide 1" width="200" height="auto">
 </div>
 
 ## Technologies Used
