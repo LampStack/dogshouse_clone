@@ -32,7 +32,7 @@
 
 ## Pricing
 
-This script is available for purchase at **$500** With Full Customization !<br>
+This script is available for purchase at **$300** With Full Customization !<br>
 📛 Scammers Not Come !!! 📛
 
 ## Buying
